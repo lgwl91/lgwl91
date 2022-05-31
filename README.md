@@ -5,3 +5,5 @@
 ### Atualmente estou aprendendo :
 
 [![Blog](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.oracle.com/java/)
+
+![LGWL91 GitHub stats](https://github-readme-stats.vercel.app/api?username=lgwl91&show_icons=true&theme=dracula)
