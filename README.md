@@ -6,6 +6,6 @@
 
 [![Blog](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.oracle.com/java/)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=lgwl91&show_icons=true&theme=radical)(https://github.com/lgwl91)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=lgwl91&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lgwl91&layout=compact)](https://github.com/lgwl91)
