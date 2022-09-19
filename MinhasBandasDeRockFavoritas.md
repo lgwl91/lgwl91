@@ -2,6 +2,7 @@
 ### A
 - Angra
 - Avenged Sevenfold
+- Allen Lande
 ### B
 ### C
 - Charlie Brown Jr
