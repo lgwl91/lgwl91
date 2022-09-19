@@ -49,4 +49,4 @@
 ### Y
 ### Z
 
-*Faltou alguma que você gosta? Faça um pull request :)*
+*Faltou alguma que você gosta? Faça um pull request :grin:*
