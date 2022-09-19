@@ -32,6 +32,7 @@
 ### O
 ### P
 - Pink Floyd
+- Pearl Jam
 ### Q
 - Queen
 ### R
