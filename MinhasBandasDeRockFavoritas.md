@@ -40,6 +40,7 @@
 ### S
 - Scorpions
 - Shaman
+- System Of A down
 ### T
 - The Warning
 ### U
