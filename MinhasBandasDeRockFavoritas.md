@@ -13,6 +13,7 @@
 - Epica
 ### F
 ### G
+- Guns'n Roses
 ### H
 - Hibria
 ### I
@@ -30,6 +31,7 @@
 ### N
 - Nightwish
 ### O
+- Oficina G3
 ### P
 - Pink Floyd
 - Pearl Jam
@@ -41,6 +43,7 @@
 - Scorpions
 - Shaman
 - System Of A down
+- Symphony X
 ### T
 - The Warning
 ### U
