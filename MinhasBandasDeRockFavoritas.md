@@ -23,24 +23,23 @@
 - Kamelot
 ### L
 - Linkin Park
-- Led Zeppelin
 ### M
 - Masterplan
 - Metallica
 ### N
 - Nightwish
 ### O
+- Oficina G3
 ### P
 - Pink Floyd
-- Pearl Jam
 ### Q
-- Queen
 ### R
 - Rise Against
 ### S
 - Scorpions
 - Shaman
 - System Of A down
+- Symphony X
 ### T
 - The Warning
 ### U
@@ -51,4 +50,5 @@
 ### Y
 ### Z
 
-*Faltou alguma que você gosta? Faça um pull request! :grin:*
+*Faltou alguma que você gosta? Faça um pull request para vermos se a banda entra na lista! :grin:*
+*(Regra: Eu conhecer no mínimo 8 músicas da banda)*
