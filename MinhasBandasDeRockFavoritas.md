@@ -40,6 +40,7 @@
 - Shaman
 - System Of A down
 - Symphony X
+- Slipknot
 ### T
 - The Warning
 ### U
