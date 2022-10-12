@@ -3,6 +3,7 @@
 - Angra
 - Avenged Sevenfold
 - Allen Lande
+- Avantasia
 ### B
 ### C
 - Charlie Brown Jr
