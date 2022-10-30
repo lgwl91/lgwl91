@@ -16,7 +16,4 @@
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://www.linkedin.com/in/lgwl91/)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://www.linkedin.com/in/lgwl91/)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=lgwl91&show_icons=true&theme=default)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lgwl91&layout=compact)](https://github.com/lgwl91)
-
 ### Conheça também minhas bandas de rock favoritas! :grin: https://github.com/lgwl91/lgwl91/blob/main/MinhasBandasDeRockFavoritas.md
